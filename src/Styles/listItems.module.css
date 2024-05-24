@@ -1,0 +1,21 @@
+.taskName {
+  margin: 10px;
+  padding: 10px 0;
+}
+.taskSeperator {
+  border: 1px solid grey;
+}
+
+.deleteButton {
+  float: right;
+  border: none;
+  border-radius: 30px;
+  background-color: #f7ca18;
+  padding: 12px 20px;
+  color: white;
+  cursor: pointer;
+  margin-top: -5px;
+}
+.isDone{
+  text-decoration: line-through;
+}
